@@ -1,0 +1,1150 @@
+clear
+history
+hahah
+history
+exit
+shutdown
+start chrome
+start chrome
+clear
+ls
+clear
+start chroem
+start chrome
+start chrome
+clear
+ls
+nano cmdCommandList.txt
+cat cmdCommandList.txt
+ls
+clear
+ls
+cd ..
+ls
+clear
+exit
+ls
+clear
+asd
+ls
+cd ..
+clear
+quit
+clear
+ls
+cd ..
+ls
+cd files
+ls
+clear
+ls
+hash cmdCommandList.txt
+hash cmdCommandList.txt haha.txt 1111
+ls
+cat haha.txt
+unhash haha.txt hehe.txt 1111
+ls
+cat hehe.txt
+clear
+ls
+clear
+ls
+func apple
+clear
+appl
+apple
+apple()
+apple()
+apple()
+clear
+quit
+quit
+apple()
+quit
+clear
+apple()
+quit
+apple()
+quit
+apple()
+quit
+apple()
+quit
+apple()
+quit
+apple()
+quit
+clear
+ls
+clear
+apple()
+netsh wlan show profiles
+quit
+clear
+ls
+apple()
+netsh wlan show profiles
+quit
+quit
+clear
+apple()
+netsh wlan show profiles
+tree
+apple()
+netsh wlan show profiles
+quit
+git
+git init
+ls
+clear
+ls
+ls -c
+clear
+;s
+ls
+clear
+ls
+clear
+tree
+tree
+clear
+tree
+func 
+
+clear
+()
+echo hello !
+clear
+func p
+clear
+p()
+python
+clear
+func c
+clear
+c
+c()
+clear
+netsh wlan show profiles
+netsh wlan show profiles &c
+netsh wlan show profiles
+netsh wlan show profiles &c
+ls &c
+clear
+ls
+ls -c
+clear
+clear
+ls
+clear
+clear
+ipconfig
+ipconfig &c
+ipconfig
+clear
+ls
+clear
+quit
+quit
+quit
+exit
+exit
+quit
+exit
+quit
+exit
+clear
+ls
+exit
+shutdown 10
+shutdown -a
+
+ls
+python
+clear
+s
+ls
+clear
+ls
+cd Cell
+ls
+python cell.py
+nano cell.py
+python cell.py
+python
+python D:\Pycharm\PurePython\RascleDeveloper\Cell
+D:\Pycharm\PurePython\RascleDeveloper\Cell python
+cmd
+clear
+ls
+clear
+ls
+cmd a
+ls
+clear
+ls
+netsh wlan show profiles
+C:\Windows\System32\cmd.exe /K "cd /d H:\Python\"
+quit
+clear
+ls
+cmd /K "cd /d c:\WINDOWS\"
+clear
+exit
+python
+clear
+cmd
+clear
+exit
+python
+exit
+clear
+ls
+quit()
+ls
+Cell
+cd Cell
+clear
+ls
+python
+cd .
+quit
+exit
+clea
+clear
+;s
+ls
+clear
+ls
+cd Cell
+ls
+python
+quit
+clear
+python
+exit
+ls
+cd Cell
+ls
+python
+quit
+python
+python
+quit
+python
+ls
+start ls
+clear
+ls
+start a.txt
+quit
+python
+quit
+python
+quit
+python
+ls
+cd Cell
+python
+cs
+cls
+exit
+clear
+ls
+cd Cell
+ls
+python
+clear
+ls
+cd adsasd
+clear
+ls
+cd ..
+ls
+quit
+clear
+ls
+cd ..
+cd ..
+cd ..
+exit
+python
+ls
+cd A-LevelsTutorial
+ls
+cd ..
+ls
+ls
+cd ..
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd Computer\ Science
+cd Computer Science
+cd "Computer Science"
+ls
+ls
+test.py
+
+
+
+clear
+ls
+start explorer.ext
+start explorer.exe
+explorer.exe
+ls
+clear
+ls
+python apple()
+python
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+
+
+python
+clear
+clear
+clear
+ls
+clear
+python test.py
+python test.py
+python test.py
+histroy 4
+histroy
+histry
+cls
+pyhton test.py
+python test.py
+python test.py
+quit
+1*2
+python
+quit
+1*2
+quit
+1*2
+1+2
+10*1-
+10*10
+a = 10
+quit
+a =1
+apple=1
+1*2
+1*1000
+print("apple")
+aple
+nano
+clear
+ls
+clear
+import os
+clear
+60*3
+shutdown 180
+shutdown -a
+cmd
+clear
+ls
+clear
+shutdown 5
+func haha
+exit
+clear
+ls
+clear
+func ball
+quit
+clear
+ls
+clear
+func appp:
+func apple
+func ball
+python
+python
+clear
+ls
+clear
+python
+touch update.py
+python
+history
+quit
+(3.2+6)*2
+clear
+ls
+clear
+10 * 10
+clear
+ls
+clear
+10 - 1
+clear
+ls
+clear
+system('cls')
+print('a')
+'a' > 'b'
+a
+clear
+a = 'a'
+clear
+'a' > 'b'
+' ' > 'a'
+asc('a')
+echo fgh
+cls
+cls
+chrome "modular program design"
+print('apple'[1:-2])
+print('apple'[0:-2])
+calac
+calc
+clear
+print('apple'[0:-2])
+print('apple'[-1:])
+print('apple'[-2:])
+print('apple'[-2])
+print('apple'[-2:])
+print('apple'[1:])
+print('apple'[-1:])
+print('apple'[-2:])
+print('apple'[-2:])
+python
+chrome
+start chromoe
+start chrome
+tree
+quit
+tree
+qiut
+quit
+python
+ls
+clear
+pythin
+python
+clear
+tree
+ls
+cd update
+ls
+tree
+cd ..
+ls
+cd .git
+ls
+tree
+clear
+ls
+ls &c
+ls -c
+clear
+netsh wlan show profiles
+netsh wlan show profiles &c
+netsh wlan show profiles
+netsh wlan show profiles
+netsh wlan show profiles
+netsh wlan show profiles
+netsh wlan show profiles
+netsh wlan show profiles &c
+netsh wlan show profiles &c
+netsh wlan show profiles
+netsh wlan show profiles 
+netsh wlan show profiles
+clear
+git help
+git help
+git help
+quit
+clear
+ls
+clear
+update
+quit
+clear
+ls
+clear
+update
+quit
+clear
+ls
+clear
+update
+update
+update
+update
+clear
+update
+quit
+update
+quit
+update
+update
+update
+clear
+ADDTOPATH
+quit
+ADDTOPATH
+ADDTOPATH
+clear
+ls
+clear
+ls
+clear
+update
+update
+quit
+quit
+update
+update
+quit
+update
+quit
+quit
+update
+quit
+ls
+cd update
+ls
+cat update
+cat update.py
+cd ..
+ls
+cat bash.py
+quit
+cat bash.py
+update
+update
+quit
+update
+quit
+update
+git clone https://github.com/rascledeveloper/bash_V2
+ls
+cd bash_V2
+ls
+clear
+ls
+cd bash_V3
+clear
+ls
+python bash.py
+update
+clear
+ls
+touch rm.py
+start
+explorer
+ls
+cd Bools
+cd Books
+ls
+cd ALevels
+ls
+explorer
+cd D:
+;s
+ls
+cd D:/Books
+ls
+cd ..
+ls
+cd ..
+ls
+cd D:\
+ls
+cd ..
+ls
+clear
+exit
+ls
+cd D:\
+ls
+cd Books
+ls
+cd Alevels
+ls
+cd ..
+ls
+cd Alevels
+ls
+cd Mathematics
+ls
+clear
+ls
+cd D:\Books\Alevels\Mathematics\"Pure Mathematics"
+cd D:\Books\Alevels\Mathematics\
+ls
+ls
+clear
+ls
+ter
+clear
+bash
+clear
+explorer
+ls
+clear
+python
+python
+cd D:\
+ls
+cd Books
+ls
+cd ALevels
+la
+ls
+clear
+ls
+cd Mathematics
+ls
+clear
+ls
+cd quit
+quit
+cd D:\
+ls
+cd Books
+ls
+cd Alevels
+ls
+cd Mathematics
+ls
+cd Pure Mathematics
+ls
+clear
+ls
+cd ..
+ls
+cd Mathematics - 9709
+ls
+cd 2018
+ls
+cd 2018 May-June
+ls
+ls
+cd 2018 May-June -c
+ls -c
+ls
+ls -c
+ls
+ls
+ls
+cd D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+ls
+ls
+ls
+cd D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+ls
+ls -c
+python
+D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+cd D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+ls
+clear
+ls
+quit
+cd D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+
+clear
+ls
+ls
+ls -l
+ls &c
+quit
+cd D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+ls
+quit
+cd D:\Books\Alevels\Mathematics\Mathematics - 9709\2018\2018 May-June
+ls
+ls -c
+ls
+ls
+ls -c
+start chrome
+ls
+cd D;
+cd D:\
+ls
+cd Pycharm
+ls
+cd PurePython
+ls
+cd RascleDeveloper
+ls
+cd PBBN_ALL
+ls
+clear
+ls
+cd PBBN
+ls
+clear
+ls
+explorer
+pip install crayons
+python
+ter
+clear
+ls
+ls
+ls
+ls
+sls
+clear
+ls
+netsh wlan show profiles
+ls -c
+quit
+quit
+ls
+clea
+clear
+ls
+ter
+clear
+exit
+a = "apple"
+print('a')
+clear
+11*11
+ckear
+clear
+quit
+clear
+ls
+clear
+quit
+cls
+python
+clear
+ls
+ls
+clear
+cd /
+clear
+ls
+cd D:/
+ls
+cd Books
+ls
+cd ..
+clear
+ls
+python
+help
+help(print)
+python
+ls
+cd ..
+ls
+clear
+cd ..
+ls
+ls
+cd Default
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+cls
+exit
+ls
+cd ..
+cd ..
+ls
+clear
+ls
+cd users
+ls
+cd Vaskar
+ls
+cd ..
+ls
+clear
+cd D:/
+clear
+ls
+exit
+cls
+clear
+ls
+cd ..
+ls
+cd ..
+
+ls
+cd ..
+ls
+clear
+ls
+cd ..
+ls
+cd Apps
+claer
+clear
+ls
+cd ..
+cd .
+cd ..
+clear
+ls
+cd apple
+cd windoes
+cd windows
+ls
+clear
+ls
+cd WinSxS
+ls
+ls -c
+clear
+ls
+cd D:/
+quit
+;s
+ls
+clear
+cd D:/
+ls
+clear
+quit
+ls
+cd D:/
+clear
+ls
+cd D:/VirtualBox
+ls
+clear
+clear
+ls
+netsh wlan show profiles
+clear
+ls
+netsh wlan show profiles
+ls
+cd ..
+ls
+cd Pycharm
+ls
+cd PurePython
+ls
+cd RascleDeveloper
+ls
+PBBN_ALL
+ls
+cd PBBN_ALL
+ls
+clear
+ls
+cd PBBN
+ls
+cd StyleMain
+ls
+cd ..
+ls
+clear
+ls
+cd commands
+ls
+clear
+ls
+ls
+python
+cls
+ls
+python function.py
+new bash
+cd ..
+ls
+cd ..
+ls
+cd Testing
+ls
+clear
+ls
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+netsh wlan show profiles
+netsh wlan show profiles Keshab
+netsh wlan show profiles Keshab kwy=clear
+netsh wlan show profiles Keshab key=clear
+netsh wlan show profiles Keshab key=clear
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+
+python test.py
+python test.py
+netsh wlan show profiles "Gopya Baksa" key=clear
+netsh wlan show profiles
+netsh wlan show profiles Gopya Baksha key=clear
+netsh wlan show profiles "Gopya Baksha" key=clear
+netsh wlan show profiles "Gopya Baksha"
+netsh wlan show profiles "Gopya Baksa" key=clear
+netsh wlan show profiles "Gopya Baksha"
+python test.py
+python test.py
+python test.py
+ls
+cd ..
+ls
+cd PNNM
+cd PBBN
+;s
+ls
+cd files
+ls
+cd ..
+;s
+ls
+clear
+ls
+cd help
+ls
+touch help.py
+clear
+ls
+nano help.py
+ls
+cd ..
+cd ..
+ls
+cd ..
+ls
+clear
+git clone https://github.com/google/ci_edit
+ls
+cd ci_edit
+ls
+python ci.py
+ls
+cd D:/
+ls
+cd Pycharm
+ls
+cd PurePython
+ls
+cd RascleDeveloper
+ls
+cd PBBN_ALL
+ls
+cd PBBN
+ls
+clear
+ls
+cd help
+ls
+nano AllHelpText.txt
+help
+cmd
+exit
+;s
+c;ear
+clsear
+clear
+ls
+clear
+ls
+clear
+cd ..
+cd D:/
+ls
+clear
+ls
+a =10
+print(a)
+a
+a = 10
+10 * 19
+quit
+10 *10
+clear
+ls
+clear
++10-10
+print('apple')
+quit
+print('appple')
+10*10
+10*10
+quit
+10*10
+-1 + 1
+-1 + 2
+print('asd')
+10**1
+10**2
+10^22
+10^2
+help
+quit
+clear
+help
+quit
+help
+ter
+help
+quit
+help
+ckear
+clear
+ls
+quit
+help
+clear
+ls
+shutdown
+clear
+ls
+clear
+clear
+ls
+cd D:/
+ls
+cleat
+clear
+ls
+got
+git
+git clone
+clear
+cd D:\Pycharm\PurePython\RascleDeveloper\PBBN_ALL\PBBN_V4\ter.bat
+cd D:\Pycharm\PurePython\RascleDeveloper\PBBN_ALL\PBBN_V4
+clear
+s
+clear
+ls
+clear
+echo "# bash_V4" >> README.md
+git init
+git add README.md
+clear
+ls
+ls
+clear
+ls
+cd .git
+ls
+explorer
+cd ..
+ls
+clear
+ls
+rmdir .git
+ls
+cd .git
+ls
+clear
+ls
+cd objects
+ls
+clear
+ls
+rm pack
+rmdir pack
+ls
+rm info
+ls
+rmdir info
+clear
+ls
+cd .git
+ls
+clear
+ls
+cd objects
+ls
+cd 00
+ls
+rm 85f7f42a351edd2902af557b1ec770f74de003
+ls
+cd .git
+ls
+cd ..
+rmdir git
+rmdir .git

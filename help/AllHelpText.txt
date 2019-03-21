@@ -1,0 +1,23 @@
+<MATHEMATICAL EXPRESSION>              		     - Gives result of the provided expression
+ls  				       		     - Lists directory in working directory
+ADDTOPATH  {MUST RUN AS ADMINISTRATOR} 		     - Adds terminal to the path so it can be accessed from anywhere
+nano <FILE NAME>                       		     - Opens file for WRITING
+cat <FILE NAME>                        		     - Opens file for READING
+rm <FILE NAME>                         		     - Deletes file Permanently
+new bash                               		     - Opens new bash
+update          		       		     - Updates the bash
+is internet working                    		     - Checks if internet is working or not
+clear                                  		     - clears the screen
+history  <OPT: NUMBER OF LAST COMMANDS TO DISPLAY>   - outputs the command history || OPT argument prints last given number of commands
+shutdown <OPT: Timer in seconds>                     - shutdowns the computer || OPT argument takes time in second and shutdowns computer after thet many seconds
+rm history                                           - removes the history
+explorer                                             - opens current working dir in explorer
+quit  or   exit                                      - quits the bash
+cwd                                                  - outputs current working directory
+mkdir <DIRECTORY NAME> 				     - Creates directory
+rmdir <DIRECTORY NAME> 	    			     - deletes directory
+touch <FILE NAME>                                    - creates file
+func <FUNCTION NAME>                                 - creates function
+<FUNCTION NAME>() 				     - runs the function
+hash <FILE TO HASH> <OUTPUT FILE NAME> <PIN>         - creates encripted text file with the use of old file
+unhash <FILE TO UNHASH> <OUTPUT FILE NAME> <PIN>     - restores the original text

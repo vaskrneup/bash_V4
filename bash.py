@@ -13,9 +13,9 @@ try:
 except ModuleNotFoundError:
     install_module = input("some modules are missing would you like to install it ?[y|n] : ")
     if install_module.lower() == "y":
-        system("pip install termcolor")
-        system("pip install send2trash")
-        system("pip install requests")
+        system("pip3 install termcolor")
+        system("pip3 install send2trash")
+        system("pip3 install requests")
         from requests import get, ConnectionError
         from send2trash import send2trash
     else:

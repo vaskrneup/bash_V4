@@ -23,7 +23,7 @@ except ModuleNotFoundError:
 from subprocess import check_output, CalledProcessError
 # print(colored('hello', 'red'), colored('world', 'green'))
 # Custom module !
-from commands import common, dirs, file, function
+from commands import common, dirs, file, function, rascle
 from help.help import HelpFinder
 # from help import help_dirs, help_file, help_function
 from security import Hasher
@@ -57,8 +57,8 @@ class Bash:
         self.split_command_space = ""  # Splits String using '<SPACE>' and store store the new list !
 
         self.terminal_title = "BN Bash"  # sets title of the bash !
-        self.bash_bg_color = "black"  # sets bash background color to black **Must be color name @CLASS Color
-        self.bash_fg_color = "green"  # sets bash foreground color to green **Must be color name @CLASS Color
+        self.bash_bg_color = "blue"  # sets bash background color to black **Must be color name @CLASS Color
+        self.bash_fg_color = "red"  # sets bash foreground color to green **Must be color name @CLASS Color
 
         self.logged_in = None  # File for verifying user login !
 
@@ -158,6 +158,8 @@ class Bash:
                              self.current_working_dir, self.current_file_path).execute():
                 # print("1")
                 return True
+            elif self.command == "show wifi password":
+                rascle.RascleInBuilt()
             # CHECKS COMMANDS RELATED TO DIRECTORY !
             elif output_grabbing:
                 # Checks if text is returned or bool value !

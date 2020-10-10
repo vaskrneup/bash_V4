@@ -1148,3 +1148,60 @@ ls
 cd ..
 rmdir git
 rmdir .git
+dir
+ls
+clear
+help
+TIME
+cleara
+clear
+func apple
+apple
+apple()
+print('Hello World!')
+func ball
+ball
+ball()
+dir
+cd 
+cd CDF
+ls
+cd ..
+cd CDF
+mkdir test
+cd test
+ls
+nano c.dll
+cd ..
+nano c.dll
+new bash
+help
+update
+is internet working
+1 + 2
+5 * 'Apple
+5 * 'Apple'
+'
+print('Hi!')
+[]
+100+123(123)
+100
+history
+history 10
+history 1000
+a = "apple"
+show wifi password
+wifi password
+
+
+
+
+
+la
+ls
+quit
+show wifi password
+cls
+exit
+show wifi password
+git add .
